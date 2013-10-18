@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHost", "WebHost\WebHost.csproj", "{C66C236A-84D2-4864-ADFE-C87D636757C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBook.Hosting.Common", "WebApiBook.Hosting.Common\WebApiBook.Hosting.Common.csproj", "{9F9DE984-6BC9-4702-BAF8-72F866DC11C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBook.Hosting.Owin.SelfHosted.Sample1", "WebApiBook.Hosting.Owin.SelfHosted.Sample1\WebApiBook.Hosting.Owin.SelfHosted.Sample1.csproj", "{526874E5-214B-475A-97DB-ED290A15B458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66C236A-84D2-4864-ADFE-C87D636757C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66C236A-84D2-4864-ADFE-C87D636757C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66C236A-84D2-4864-ADFE-C87D636757C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66C236A-84D2-4864-ADFE-C87D636757C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9DE984-6BC9-4702-BAF8-72F866DC11C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9DE984-6BC9-4702-BAF8-72F866DC11C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9DE984-6BC9-4702-BAF8-72F866DC11C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9DE984-6BC9-4702-BAF8-72F866DC11C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526874E5-214B-475A-97DB-ED290A15B458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526874E5-214B-475A-97DB-ED290A15B458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526874E5-214B-475A-97DB-ED290A15B458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526874E5-214B-475A-97DB-ED290A15B458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

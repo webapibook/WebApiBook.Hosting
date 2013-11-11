@@ -1,4 +1,4 @@
 WebApiBook.Hosting
 ==================
 
-Examples for the hosting chapters
+Examples for the hosting chapter
